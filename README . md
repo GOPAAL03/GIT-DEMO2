@@ -1,0 +1,162 @@
+# 🚀 Git Learning Project
+
+## 📌 Overview
+This repository contains my hands-on practice and learning of Git and GitHub.
+I have used this project to understand version control, commits, branching, and collaboration.
+
+## 🎯 Objective
+- Learn Git basics step by step
+- Understand how to manage code using GitHub
+- Practice real-world version control workflow
+
+## 🛠 Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+## 📂 Project Structure
+
+git-learning-project/
+│
+├── files/
+├── practice-code/
+├── README.md
+
+## ⚙️ Key Learnings
+- Git commands (init, add, commit, push)
+- Branching and merging
+- Repository management
+- Version control concepts
+
+## 🚀 How to Use
+1. Clone the repository:
+   git clone https://github.com/your-username/git-learning-project.git
+
+2. Open in VS Code
+
+3. Explore files and practice Git commands
+
+## 📈 Future Improvements
+- Add more real-world examples
+- Create advanced Git workflows
+- Collaborate with other developers
+
+## 👤 Author
+Gopal Panda
+
+## ⭐ Support
+If you found this helpful, give it a ⭐ on GitHub!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
